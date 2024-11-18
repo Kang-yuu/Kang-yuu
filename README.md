@@ -1,3 +1,11 @@
+<a href="https://github.com/devxb/gitanimals">
+  <img
+    src="https://render.gitanimals.org/farms/Kang-yuu"
+    width="600"
+    height="300"
+  />
+</a>
+
 - 👋 Hi, I’m @Kang-yuu
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning...
